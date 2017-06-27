@@ -1,0 +1,43 @@
+
+body{
+  padding-left: 30px;
+  padding-right: 30px;
+  background-color: #27a9b4;
+}
+h1{
+  text-align: center;
+}
+.container{
+  clear: both;
+  min-height: 100px;
+}
+.divLeft{
+  float: left;
+  margin-right: 3%;
+  width: 45%;
+  border-style: solid;
+  border-width: 3px;
+  text-align: center;
+}
+.divRight{
+  float: right;
+  margin-left: 3%;
+  width: 45%;
+  border-style: solid;
+  border-width: 3px;
+  text-align: center;
+}
+.title{
+  background-color: #5a76b8;
+  text-align: center;
+  font-size: 25px;
+  margin-top: 10px
+}
+.text{
+  font-size: 20px;
+  text-align: center;
+}
+
+
+
+
